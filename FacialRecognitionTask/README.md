@@ -1,10 +1,7 @@
 #  Face Manipulation Recognition Task
- 
-Experimenters: Claire Dinauer and Nikka Mel Ruelos
-
-Author of this Page: Claire Dinauer
-
-Date: December 11, 2020
+> Claire Dinauer
+> December 11, 2020
+> Experimenters: Claire Dinauer and Nikka Mel Ruelos
  
 ## The Problem
 
