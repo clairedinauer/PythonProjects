@@ -33,14 +33,16 @@ Stimuli for the experimental trials consisted of 120 frontal-view professional h
 
 Participants were instructed to run the experimental file through Python. Participants were first prompted to enter their subject information, such as initials and age. Before the experiment began, the 120 face photos were randomly assigned and equally divided to be a stimulus or noise face. Next, one of the two sets of instructions was shown to the participant, in which instruction type was counterbalanced by randomly assigning subjects to view the face instructions or image instructions first. After the instructions were shown, participants were given 3 seconds to memorize each of the 30 faces in the set. All of the stimuli faces were largely distorted in the learning portion of the task. Participants were then told to identify the faces based on whether they saw the face in the previous set (“old”) or did not see the face (“new”). The participant would then see the 30 stimuli headshot photos (old faces) and 30 noise headshot photos (new faces) in a randomized order, in which 15 stimuli and 15 noise images were randomly assigned to the large distortion condition and the remaining 15 stimuli and 15 noise images were assigned to the small distortion condition. Figure 1 (below) offers an example of how images were distorted for the learning and recognition tasks. The faces were presented one at a time, each for 700 milliseconds. After each face presentation, the participant was prompted to press ‘1’ on their keyboard to indicate that the face was old or press ‘2’ to indicate that the face was new. This procedure was repeated for the second set of instructions until participants had viewed all 120 headshot photos. To avoid confusion or interference, headshot photos were not repeated across conditions.
 
-<img src="Figures/figure1.png" width="600" height="250">
+<p align="center">
+ <img src="Figures/figure1.png" width="600" height="250">
+ </p>
 
 ## Results and Statistical Analysis
 
 We analyzed the results of the old-new recognition task by determining the hit rates and false alarm rates from the class data to then calculate the average percent of correct responses, d' (bias), and logβ (sensitivity). Table 1 and Table 2 depict our own data measures to compare with the average class performance in Table 3. Overall, the average percent of correct responses across trials was 65.9%. Looking at our own data, we infer that our overall percent of correct trials (PcClaire = 67.5%, PcNikka = 66.7%) was reasonably similar to the average participant’s percent of correct trials. However, looking again at our data, Nikka and I received statistically higher hit rates (hClaire = 0.75, hNikka = 0.717) as well as slightly higher false alarm rates (fClaire = 0.40, fNikka = 0.383) than the class average (h = 0.65, f = 0.332). Our d' values were also slightly higher than the average d' value for the class, though not significantly, meaning that our Noise and Signal+Noise curves are slightly further apart relative to our class.
 
 <p align="center">
-  <img src="Figures/figure2.png" width="600" height="300">
+  <img src="Figures/figure2.png" width="600" height="350">
 </p>
 
 
