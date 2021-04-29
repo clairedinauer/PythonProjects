@@ -32,12 +32,12 @@
 
 
 ## Results
- When you have completed running the experiment, please email the two csv
- files saved to your drive to Claire and Nikka. The files should be titled:
-    - participant_info.csv
-    - subjects_data.csv
+When you have completed running the experiment, please email the two csv files saved to your drive to Claire and Nikka. The files should be titled:
+* participant_info.csv
+* subjects_data.csv
 
- Claire's Email: cdinauer@g.ucla.edu
- Nikka's Email: nruelos@g.ucla.edu
+Claire's Email: cdinauer@g.ucla.edu
+
+Nikka's Email: nruelos@g.ucla.edu
 
 Thank you for participating!
