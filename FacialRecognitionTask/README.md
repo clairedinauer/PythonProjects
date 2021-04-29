@@ -1,13 +1,10 @@
-# CONTENTS OF THIS FILE
----------------------
-
+# Face Recognition Task
+**Contents:**
  * Introduction
  * Included files
  * Results
 
-
- ## INTRODUCTION
- ------------
+ ## Introduction
  Welcome to our Face Manipulation Recognition Task!
  
  The experimenters are Claire Dinauer and Nikka Mel Ruelos.
@@ -21,8 +18,7 @@
  seen that image in the learning section of the task.
 
 
- ## INCLUDED FILES
- ------------
+ ## Included Files
  The "Faces" folder holds all of the images to be displayed during the task.
 
  The Dinauer_Ruelos.py file holds the script for the experiment.
@@ -35,8 +31,7 @@
  in order to successfully run the experiment.
 
 
-## RESULTS
- ------------
+## Results
  When you have completed running the experiment, please email the two csv
  files saved to your drive to Claire and Nikka. The files should be titled:
     - participant_info.csv
@@ -45,4 +40,4 @@
  Claire's Email: cdinauer@g.ucla.edu
  Nikka's Email: nruelos@g.ucla.edu
 
-                    Thanks for participating!
+Thank you for participating!
