@@ -1,6 +1,8 @@
 #  Face Manipulation Recognition Task
 > Claire Dinauer
+> 
 > December 11, 2020
+> 
 > Experimenters: Claire Dinauer and Nikka Mel Ruelos
  
 ## The Problem
