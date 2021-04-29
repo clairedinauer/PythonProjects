@@ -5,11 +5,11 @@
  The experimenters are Claire Dinauer and Nikka Mel Ruelos.
  
 **Contents:**
- * Introduction
+ * The Task
  * Included Files
  * Results
 
- ## Introduction
+ ## The Task
 
  In one half of this task, you will be required to learn a set of novel faces.
  After learning the faces, you will be asked to determine whether or not you had
