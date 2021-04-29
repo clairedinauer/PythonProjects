@@ -1,6 +1,10 @@
-#  Welcome to our Face Manipulation Recognition Task!
+#  Face Manipulation Recognition Task
  
- The experimenters are Claire Dinauer and Nikka Mel Ruelos.
+Experimenters: Claire Dinauer and Nikka Mel Ruelos
+
+Author of this Page: Claire Dinauer
+
+Date: December 11, 2020
  
 ## The Problem
 
