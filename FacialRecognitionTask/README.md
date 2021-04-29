@@ -1,13 +1,15 @@
 # Face Recognition Task
-**Contents:**
- * Introduction
- * Included files
- * Results
 
- ## Introduction
  Welcome to our Face Manipulation Recognition Task!
  
  The experimenters are Claire Dinauer and Nikka Mel Ruelos.
+ 
+**Contents:**
+ * Introduction
+ * Included Files
+ * Results
+
+ ## Introduction
 
  In one half of this task, you will be required to learn a set of novel faces.
  After learning the faces, you will be asked to determine whether or not you had
