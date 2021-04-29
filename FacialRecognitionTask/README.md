@@ -58,7 +58,7 @@ Based on the class data in Table 4, participants showed a preference toward more
 A two-way within-subjects ANOVA was conducted for the percent of correct responses to test for significant main effects or interactions. There was no significant main effect of amount of distortion on participants’ percentage of correct responses (F(1,10) = 0.948, p > 0.05). There was also no significant main effect of type of instructions on participants’ percentage of correct responses (F(1,10) = 2.539, p > 0.05). There was no significant interaction between the amount of distortion and type of instructions on participants’ percentage of correct responses (F(1,10) = 0.233, p > 0.05), which also can be observed visually in Figure 2 (below).
 
 <p align="center">
-  <img src="Figures/figure4.png" width="600" height="325">
+  <img src="Figures/figure4.png" width="650" height="325">
 </p>
 
 ## Paired-Sample T-Tests
