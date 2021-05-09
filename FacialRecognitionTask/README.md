@@ -1,4 +1,6 @@
 #  Face Manipulation Recognition Task
+> Cognitive Science Laboratory: Psychophysical Theories and Methods with Emphasis on Signal Detection Theory
+> 
 > Written by: Claire Dinauer
 > 
 > December 11, 2020
