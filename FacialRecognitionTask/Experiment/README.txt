@@ -32,19 +32,3 @@ CONTENTS OF THIS FILE
 
  Ensure that the Faces folder and Dinauer_Ruelos.py file are in the same path
  in order to successfully run the experiment.
-
-
- RESULTS
- ------------
- When you have completed running the experiment, please email the two csv
- files saved to your drive to Claire and Nikka. The files should be titled:
-    - participant_info.csv
-    - subjects_data.csv
-
- Claire's Email: cdinauer@g.ucla.edu
- Nikka's Email: nruelos@g.ucla.edu
-
- Don't forget to cc Professor Liu and Hunter in your email.
-
-
-                    Thanks for participating!
