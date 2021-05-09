@@ -91,3 +91,5 @@ under variable lighting. IEEE Transactions on pattern analysis and machine intel
 
 Lu, H., & Liu, Z. (2008). When a never-seen but less-occluded image is better recognized: 
 Evidence from old–new memory experiments. Journal of Vision, 8(7), 31-31.
+
+logβ<sup>LD</sup>
