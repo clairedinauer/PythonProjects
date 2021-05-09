@@ -47,7 +47,7 @@ We analyzed the results of the old-new recognition task by determining the hit r
 
 The average bias of logβ = 0.02 was extremely close to that of an unbiased observer, in which logβ = 0. Looking at our data, Nikka and I exhibited negative bias values, indicating a distinct preference toward more ‘old’ responses than ‘new’ responses when classifying faces. Due to compiling the 120 faces to be used for the trials, it is likely that our exposure to the stimuli before the experiment interfered with how we classified faces, leading to our higher hit rates, higher false alarm rates, and preference to classify faces as old. 
 
-Based on the class data in Table 4, participants showed a preference toward more ‘old’ responses than ‘new’ responses for large distortions with logβLD = -0.212. This is also reflected in the criterion 𝜆LD = 0.230. For small distortions, participants show a preference toward more ‘new’ responses than ‘old’ with logβSD = 0.211. Compared to the large distortion trials, the criterion shifted right in the small distortion trials to 𝜆SD = 0.659.  Based on the class data in Table 5, participants did not show a distinct difference in bias based on the type of instructions given; in fact, the logβ values being close to 0 are reflective of an unbiased observer.
+Based on the class data in Table 4, participants showed a preference toward more ‘old’ responses than ‘new’ responses for large distortions with logβ<sub>LD</sub> = -0.212. This is also reflected in the criterion 𝜆<sub>LD</sub> = 0.230. For small distortions, participants show a preference toward more ‘new’ responses than ‘old’ with logβ<sub>SD</sub> = 0.211. Compared to the large distortion trials, the criterion shifted right in the small distortion trials to 𝜆<sub>SD</sub> = 0.659.  Based on the class data in Table 5, participants did not show a distinct difference in bias based on the type of instructions given; in fact, the logβ values being close to 0 are reflective of an unbiased observer.
 
 <p align="center">
   <img src="Figures/figure3.png" width="625" height="325">
@@ -91,5 +91,3 @@ under variable lighting. IEEE Transactions on pattern analysis and machine intel
 
 Lu, H., & Liu, Z. (2008). When a never-seen but less-occluded image is better recognized: 
 Evidence from old–new memory experiments. Journal of Vision, 8(7), 31-31.
-
-logβ<sub>LD</sub>
