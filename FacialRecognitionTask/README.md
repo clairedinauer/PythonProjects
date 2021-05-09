@@ -76,3 +76,18 @@ One potential issue was that some faces may have been more recognizable than oth
 On a separate note, we were running the same experiment and taking the same measures for each section of the experiment regardless of instruction type. That said, we did not concretely test whether participants were recalling the exact image of each face with the same amount of distortion for the image instruction trials; this would require a change in experimental design to emphasize the instructions to participants as well as a change in our operational definition of the type of instructions. Therefore, if we were to adjust our data with regard to the expectation that participants would classify images presented exactly the same as images from the learning phase as ‘old’, we would likely observe a shift in the data during the image instructions section of the task. In fact, by adjusting our data to consider this, the sensitivity is estimated to be d' = 0.991, which more closely resembles the sensitivities for the face instructions (d' = 0.935) and large distortion trials (d' = 0.92) from Table 4 and Table 5. Of course, we cannot draw any conclusions from this estimation, yet we would predict similar results to those of the large distortion condition due to the congruency of the amount of distortion in the learning and signal trials.
 
 Overall, we would be interested in expanding our experiment’s reach and reconfiguring the operationalization of our variables to more efficiently test the extent to which distortion and instruction type may affect face recognition, as well as explore additional questions regarding how manipulating the types of distortion and types of images used for stimuli may affect face recognition.
+
+## References
+
+Harmon, L. D. (1973). The recognition of faces. Scientific American, 229(5), 70-83.
+
+Lam, K. M., & Yan, H. (1998). An analytic-to-holistic approach for face recognition based on a 
+single frontal view. IEEE Transactions on pattern analysis and machine intelligence, 
+20(7), 673-686.
+
+Lee, K. C., Ho, J., & Kriegman, D. J. (2005). Acquiring linear subspaces for face recognition 
+under variable lighting. IEEE Transactions on pattern analysis and machine intelligence, 
+27(5), 684-698.
+
+Lu, H., & Liu, Z. (2008). When a never-seen but less-occluded image is better recognized: 
+Evidence from old–new memory experiments. Journal of Vision, 8(7), 31-31.
