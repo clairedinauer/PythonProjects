@@ -1,5 +1,5 @@
 #  Face Manipulation Recognition Task
-> Claire Dinauer
+> Written by: Claire Dinauer
 > 
 > December 11, 2020
 > 
