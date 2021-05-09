@@ -50,7 +50,7 @@ The average bias of logβ = 0.02 was extremely close to that of an unbiased obse
 Based on the class data in Table 4, participants showed a preference toward more ‘old’ responses than ‘new’ responses for large distortions with logβLD = -0.212. This is also reflected in the criterion 𝜆LD = 0.230. For small distortions, participants show a preference toward more ‘new’ responses than ‘old’ with logβSD = 0.211. Compared to the large distortion trials, the criterion shifted right in the small distortion trials to 𝜆SD = 0.659.  Based on the class data in Table 5, participants did not show a distinct difference in bias based on the type of instructions given; in fact, the logβ values being close to 0 are reflective of an unbiased observer.
 
 <p align="center">
-  <img src="Figures/figure3.png" width="600" height="325">
+  <img src="Figures/figure3.png" width="625" height="325">
 </p>
 
 ## Two-Way Within-Subjects ANOVA
@@ -58,7 +58,7 @@ Based on the class data in Table 4, participants showed a preference toward more
 A two-way within-subjects ANOVA was conducted for the percent of correct responses to test for significant main effects or interactions. There was no significant main effect of amount of distortion on participants’ percentage of correct responses (F(1,10) = 0.948, p > 0.05). There was also no significant main effect of type of instructions on participants’ percentage of correct responses (F(1,10) = 2.539, p > 0.05). There was no significant interaction between the amount of distortion and type of instructions on participants’ percentage of correct responses (F(1,10) = 0.233, p > 0.05), which also can be observed visually in Figure 2 (below).
 
 <p align="center">
-  <img src="Figures/figure4.png" width="650" height="325">
+  <img src="Figures/figure4.png" width="675" height="325">
 </p>
 
 ## Paired-Sample T-Tests
