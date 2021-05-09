@@ -24,7 +24,7 @@ CONTENTS OF THIS FILE
  ------------
  The "Faces" folder holds all of the images to be displayed during the task.
 
- The Dinauer_Ruelos.py file holds the script for the experiment.
+ The RecognitionTask.py file holds the script for the experiment.
 
  To run the experiment, type the following into your terminal:
 
