@@ -1,9 +1,7 @@
 CONTENTS OF THIS FILE
 ---------------------
-
  * Introduction
  * Included files
- * Results
 
 
  INTRODUCTION
